@@ -2,7 +2,7 @@
 
 ### Education
 - Offline shop database
-  <h4>Данное приложение было написано на первом курсе обучения в рамках изучения дисциплины Python</h4>
+  Данное приложение было написано на первом курсе обучения в рамках изучения дисциплины Python.
   Ознакомиться с руководством пользователя можно тут [Link](https://github.com/Turakulov/Python/tree/master/Work)
   
 - Image detecting using сonvolutional neural networks.
