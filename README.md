@@ -20,5 +20,5 @@
 
 ### Work  
 - Richtracks prediction model
-  [Link](https://github.com/Turakulov/Python/blob/master/richtracks_model.ipynb)
+  [Link](https://github.com/Turakulov/Python/blob/master/richtracks%20model%20training.ipynb)
   
