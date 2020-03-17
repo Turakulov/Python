@@ -2,6 +2,9 @@
 
 ### ROOT
 - Richtracks prediction model
+
+  Building a model that predicts whether the ride was made by a passenger or not based on data from incoming points.
+  Score prediction measuring using raw prediction, data preprocessing with PCA method and configuration of hyperparameters
   [Link](https://github.com/Turakulov/Python/blob/master/richtracks%20model%20training.ipynb)
 
 - Text classification to several categories using `20newsgroups` dataset
