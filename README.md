@@ -1,11 +1,14 @@
 # There are few educational and work projects
 
-### Education
-- Offline shop database.
+### ROOT
+- Richtracks prediction model
+  [Link](https://github.com/Turakulov/Python/blob/master/richtracks%20model%20training.ipynb)
 
-  Данное приложение было написано на первом курсе обучения в рамках изучения дисциплины Python.
-  Ознакомиться с руководством пользователя можно тут [Link](https://github.com/Turakulov/Python/tree/master/Work)
-  
+- Text classification to several categories using `20newsgroups` dataset
+  [Link](https://github.com/Turakulov/Python/blob/master/text_classfication.ipynb)
+
+### Education
+ 
 - Image detecting using сonvolutional neural networks.
 
   The idea behind this figure is to show, that such neural network configuration 
@@ -18,7 +21,13 @@
   Clustering is a technique that helps in grouping similar items together based on particular attributes. 
   We are going to apply K-means clustering to the image with 6-7 colors [Link](https://github.com/Turakulov/Python/blob/master/Education/Clustering/clustering.ipynb)
 
+- Moving object detecting using OpenCV
+
+  At first we detect moving object then draw contours and fill with mean color between mask and source video frame
+  [Link](https://github.com/Turakulov/Python/blob/master/Education/Moving%20object%20detecting/moving%20object%20detecting.ipynb)
+
 ### Work  
-- Richtracks prediction model
-  [Link](https://github.com/Turakulov/Python/blob/master/richtracks%20model%20training.ipynb)
-  
+- Offline shop database.
+
+  Данное приложение было написано на первом курсе обучения в рамках изучения дисциплины Python.
+  Ознакомиться с руководством пользователя можно тут [Link](https://github.com/Turakulov/Python/tree/master/Work)
