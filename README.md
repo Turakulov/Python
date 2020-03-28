@@ -11,6 +11,7 @@
   [Link](https://github.com/Turakulov/Python/blob/master/text_classfication.ipynb)
   
 - Review classification.
+  
   The aim of the task is building a model that predicts type of movie review (negative or positive) using `sklearn`. We have two categories: "`negative`" and "`positive`", therefore `1`'s and `0`'s have been added to the target array. The folder contains two subfolders of `.txt` files divided into "`negative`" and "`positive`" reviews [Link](https://github.com/Turakulov/Python/blob/master/review_classification.ipynb)
 
 ### Education
