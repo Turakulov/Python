@@ -14,6 +14,11 @@
   
   The aim of the task is building a model that predicts type of movie review (negative or positive) using `sklearn`. We have two categories: "`negative`" and "`positive`", therefore `1`'s and `0`'s have been added to the target array. The folder contains two subfolders of `.txt` files divided into "`negative`" and "`positive`" reviews [Link](https://github.com/Turakulov/Python/blob/master/review_classification.ipynb)
 
+- Spam, not spam sms prediction
+
+  The aim of this task is to predict the category of the sms (spam or not spam) using logistic regression. Also we need to implement cross validation using `GridSearchCV` and finally compare scores (`precision`, `recall`, `accurracy`) of models. [Link](https://github.com/Turakulov/Python/blob/master/spam_notspam_prediction.ipynb) 
+  
+  
 ### Education
  
 - Image detecting using сonvolutional neural networks.
