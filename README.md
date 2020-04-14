@@ -20,7 +20,7 @@
  
 - News parsing&clustering
 
-  Parsing news of various topics from the [iz.ru](iz.ru) website. Finding optimal clusters number of dataset using `elbow method`. For each number of clusters value we will initialize `K-means` and use the inertia attribute to identify the sum of square distances of samples to the nearest cluster centre. To visualize, we’ll plot the features in a 2D space. As we know the dimension of features that we obtained from `TFIDFVectorizer` is quite large ( > 10,000), we need to reduce the dimension before we can plot. For this, we’ll use `PCA` and `UMAP` to transform our high dimensional features into 2 dimensions.
+  Parsing news of various topics from the [iz.ru](iz.ru) website. Finding optimal clusters number of dataset using `elbow method`. For each number of clusters value we will initialize `K-means` and use the inertia attribute to identify the sum of square distances of samples to the nearest cluster centre. To visualize, we’ll plot the features in a 2D space. As we know the dimension of features that we obtained from `TFIDFVectorizer` is quite large ( > 10,000), we need to reduce the dimension before we can plot. For this, we’ll use `PCA` and `UMAP` to transform our high dimensional features into 2 dimensions. [Link](https://github.com/Turakulov/Python/blob/master/News_parsing%26clustering.ipynb) 
 
 ### Education
  
