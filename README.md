@@ -12,13 +12,16 @@
   
 - Review classification.
   
-  The aim of the task is building a model that predicts type of movie review (negative or positive) using `sklearn`. We have two categories: "`negative`" and "`positive`", therefore `1`'s and `0`'s have been added to the target array. The folder contains two subfolders of `.txt` files divided into "`negative`" and "`positive`" reviews [Link](https://github.com/Turakulov/Python/blob/master/review_classification.ipynb)
+  The goal of the task is building a model that predicts type of movie review (negative or positive) using `sklearn`. We have two categories: "`negative`" and "`positive`", therefore `1`'s and `0`'s have been added to the target array. The folder contains two subfolders of `.txt` files divided into "`negative`" and "`positive`" reviews [Link](https://github.com/Turakulov/Python/blob/master/review_classification.ipynb)
 
 - Spam, not spam sms prediction
 
   The aim of this task is to predict the category of the sms (spam or not spam) using logistic regression. Also we need to implement cross validation using `GridSearchCV` and finally compare scores (`precision`, `recall`, `accurracy`) of models. [Link](https://github.com/Turakulov/Python/blob/master/spam_notspam_prediction.ipynb) 
-  
-  
+ 
+- News parsing&clustering
+
+  Parsing news of various topics from the [iz.ru](iz.ru) website. Finding optimal clusters number of dataset using `elbow method`. For each number of clusters value we will initialize `K-means` and use the inertia attribute to identify the sum of square distances of samples to the nearest cluster centre. To visualize, we’ll plot the features in a 2D space. As we know the dimension of features that we obtained from `TFIDFVectorizer` is quite large ( > 10,000), we need to reduce the dimension before we can plot. For this, we’ll use `PCA` and `UMAP` to transform our high dimensional features into 2 dimensions.
+
 ### Education
  
 - Image detecting using сonvolutional neural networks.
