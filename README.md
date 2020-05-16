@@ -40,7 +40,15 @@
 
   At first we detect moving object then draw contours and fill with mean color between mask and source video frame
   [Link](https://github.com/Turakulov/Python/blob/master/Education/Moving%20object%20detecting/moving%20object%20detecting.ipynb)
+  
+- Vandermonde matrix implementation
 
+  Implementing vandermonde matrix without using `numpy.vandermonde()` [Link](https://github.com/Turakulov/Python/blob/master/Education/Vandermonde_matrix/Vandermonde_matrix.ipynb)
+
+- Marathon simulation
+  
+  Implementation of a marathon simulation where the speed of runners is determined using the distribution law (exponential distribution, normal, Poisson, Bernoulli) [Link](https://github.com/Turakulov/Python/blob/master/Education/marathon/marathon_simulating.ipynb)
+  
 ### Work  
 - Offline shop database.
 
