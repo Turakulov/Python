@@ -52,11 +52,11 @@
 - Advertising search on Avito webpage
 
   In this task, we have to write a function that parses `Avito` webpage (we will only consider Moscow city). This function accepts two parameters. The first parameter is what we are looking for on the page. The second parameter is the number of the page to parse information from. You need to download the following information:
-    - ad name, 
-    - ad url, 
-    - price, 
-    - subway station (if available), you need to carefully handle `None` or use the `try-excep`t construction, 
-    - how many meters from the subway station (if available)
+    - ad name; 
+    - ad url;
+    - price; 
+    - subway station (if available), you need to carefully handle `None` or use the `try-except` construction;
+    - how many meters from the subway station (if available).
   
 ### Work  
 - Offline shop database.
