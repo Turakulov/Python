@@ -57,7 +57,9 @@
     - price; 
     - subway station (if available), you need to carefully handle `None` or use the `try-except` construction;
     - how many meters from the subway station (if available).
-    [Link](https://github.com/Turakulov/Python/blob/master/Education/Advertising%20search%20on%20Avito/Advertising_search.ipynb)
+    
+[Link](https://github.com/Turakulov/Python/blob/master/Education/Advertising%20search%20on%20Avito/Advertising_search.ipynb)
+
   
 ### Work  
 - Offline shop database.
