@@ -1,6 +1,11 @@
 # There are few educational and work projects
 
 ### ROOT
+- Convolutional neural network for flower name predicting
+
+  Making the functions to get the training and validation set from the $Kaggle$ [flower recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) task. In this notebook I've used several neural network structers using `Tensorflow` and `Keras` libraries. Also there is a `Maxpooling` inmpelentaion [Link](https://github.com/Turakulov/Python/blob/master/CNN_Flowers_recognition.ipynb)
+
+
 - Richtracks prediction model
 
   Building a model that predicts whether the ride was made by a passenger or not based on data from incoming points.
