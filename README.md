@@ -3,7 +3,7 @@
 ### ROOT
 - Convolutional neural network for flower name predicting
 
-  Making the functions to get the training and validation set from the $Kaggle$ [flower recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) task. In this notebook I've used several neural network structers using `Tensorflow` and `Keras` libraries. Also there is a `Maxpooling` inmpelentaion [Link](https://github.com/Turakulov/Python/blob/master/CNN_Flowers_recognition.ipynb)
+  Making the functions to get the training and validation set from the __Kaggle__ [flower recognition](https://www.kaggle.com/alxmamaev/flowers-recognition) task. In this notebook I've used several neural network structers using `Tensorflow` and `Keras` libraries. Also there is a `Maxpooling` inmpelentaion [Link](https://github.com/Turakulov/Python/blob/master/CNN_Flowers_recognition.ipynb)
 
 
 - Richtracks prediction model
