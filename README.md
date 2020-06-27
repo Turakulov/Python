@@ -29,6 +29,10 @@
 
 ### Education
 
+- Leaf classification
+
+  Task is based upon __Kaggle__ [leaf classification competition](https://www.kaggle.com/c/leaf-classification/). In my notebook I tried to use __StratifiedShuffleSplit__ and visualize some important features. Also there is an implementation on __PCA__ in order to reduce dimensions. In the end I tried to make a prediction using several classificators such as `NearestCentroid`, `MultinomialNB` and `LogisticRegression`. In addition there is a `Random Forest` implementation with `GridSearchCV` hupertuning.[Link](https://github.com/Turakulov/Python/blob/master/Education/Leaf_classification%26detection/Leaf_classification%26detection.ipynb)
+
 - VK social network parsing
 
   [Link](https://github.com/Turakulov/Python/blob/master/Education/VK_parsing/VK_parsing.ipynb)
