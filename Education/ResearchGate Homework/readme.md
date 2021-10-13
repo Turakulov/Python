@@ -1,7 +1,7 @@
 # HSE. RPA seminar
 
-**Date**: 11.10.2021
-**Recording**: *will be soon*
+**Date**: 14.10.2021
+**Link to the recording**: https://loom.com/share/d25915b2a1844baa87114a7f95ffd9a1
 
 ## ResearchGate robot description
 
@@ -13,7 +13,6 @@ The robot is used to automate the process of https://www.researchgate.net/ liter
 * [selenium](https://selenium-python.readthedocs.io/) - web-browser automation
 * [pandas](https://pandas.pydata.org/) - work with datatables
 * [smtplib](https://docs.python.org/3/library/smtplib.html) \ [email](https://docs.python.org/3/library/email.examples.html) - email creating and sending
-* wcm - function for working with Windows credential manager
 
 #### Algorithm 
 
@@ -49,16 +48,4 @@ The final git repo should contain the following files:
 * robot's python script named "main.py"
 * folder with downloaded articles
 * summary excel with articles info
-* link to the video of the running robot (feel free to use [loom](https://www.loom.com/) for recording)
-
-Without git repo homework is not accepted.
-
-### Additionaly
-
-**Goal**: Select the Master thesis topic with the biggest number of resources available.
-
-1. Extract multiple Master thesis topics from image \ pdf (without digital text) using OCR, topics should be not in English. Don't forget to save used image \ pdf to the git repo
-2. Translate topics to English
-3. Collect resources for each topic
-4. Select topic with the biggest number of resources available
-5. Save all docs related to the selected topic to the .zip archive and generate excel with summary
+* link to the video of the running robot (feel free to use [loom](https://www.loom.com/) for recording) 
