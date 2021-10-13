@@ -1,4 +1,4 @@
-# HSE. RPA seminar
+# HSE. ResearchGate parsing
 
 **Date**: 14.10.2021
 **Link to the recording**: https://loom.com/share/d25915b2a1844baa87114a7f95ffd9a1
