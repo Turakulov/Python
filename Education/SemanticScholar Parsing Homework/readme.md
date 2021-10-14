@@ -1,11 +1,7 @@
-# HSE. RPA seminar
+# HSE. SemanticScholar parsing homework
 
-**Date**: 11.10.2021
-**Recording**: *will be soon*
-
-## ResearchGate robot description
-
-The robot is used to automate the process of https://www.researchgate.net/ literature collection for the user-defined topic. Result of the process is an email with attached excel with info about each found article.
+**Date**: 14.10.2021
+**Recording link**: https://www.loom.com/share/ffc7edc86c1841b28584241df9384399
 
 
 #### Used libraries
@@ -13,7 +9,6 @@ The robot is used to automate the process of https://www.researchgate.net/ liter
 * [selenium](https://selenium-python.readthedocs.io/) - web-browser automation
 * [pandas](https://pandas.pydata.org/) - work with datatables
 * [smtplib](https://docs.python.org/3/library/smtplib.html) \ [email](https://docs.python.org/3/library/email.examples.html) - email creating and sending
-* wcm - function for working with Windows credential manager
 
 #### Algorithm 
 
@@ -23,14 +18,13 @@ The robot is used to automate the process of https://www.researchgate.net/ liter
 4. Robot scraps article's info and downloads source docs if available
 5. Robot writes all info to excel and sends email
 
-
 #### How to use
 
 1. Clone git repository to your computer
 2. Create a virtual environment (optional)
 3. Install packages from ```requirements.txt```
 4. Make setup correcting ```conf.py``` file
-5. Run script ```articles_search.py```
+5. Run script ```main.py```
 
 ## Homework
 
@@ -52,13 +46,3 @@ The final git repo should contain the following files:
 * link to the video of the running robot (feel free to use [loom](https://www.loom.com/) for recording)
 
 Without git repo homework is not accepted.
-
-### Additionaly
-
-**Goal**: Select the Master thesis topic with the biggest number of resources available.
-
-1. Extract multiple Master thesis topics from image \ pdf (without digital text) using OCR, topics should be not in English. Don't forget to save used image \ pdf to the git repo
-2. Translate topics to English
-3. Collect resources for each topic
-4. Select topic with the biggest number of resources available
-5. Save all docs related to the selected topic to the .zip archive and generate excel with summary
