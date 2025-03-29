@@ -1,4 +1,4 @@
-# There are few educational and work projects
+# There are few educational projects
 
 ### ROOT
 - Convolutional neural network for flower name predicting
