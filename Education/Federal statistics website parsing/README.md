@@ -1,6 +1,8 @@
-# Federal statistics parsing
+# Federal statistics webiste parsing
 
 Federal statistics website parsing. Data on the ratio of the average salary were obtained
+
+First of all you have to download chromedriver.
 
 How to run:
 ```py 
